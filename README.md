@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Python 
 
 You can use the [editor on GitHub](https://github.com/Abel-Fan/python_install/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### windows系统中下载python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+首先打开[python官网](https://www.python.org/),在首页中选择下载
 
 ```markdown
 Syntax highlighted code block
